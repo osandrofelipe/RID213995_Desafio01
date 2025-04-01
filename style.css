@@ -101,6 +101,7 @@ input {
 }
 
 #botao {
+    margin: 1.5em 0 5em;
     background: #C07212;
     color: #FFF;
     height: 74px;
